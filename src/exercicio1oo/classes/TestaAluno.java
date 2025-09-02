@@ -15,6 +15,7 @@ public class TestaAluno {
         System.out.println("idade " + dandari.idade);
         System.out.println("nota1 " + dandari.nota1);
         System.out.println("nota2 " + dandari.nota2);
+
         System.out.println("nota3 " + dandari.nota3);
         System.out.println("nota4 " + dandari.nota4);
 
