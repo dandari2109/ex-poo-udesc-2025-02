@@ -1,8 +1,8 @@
-package exercicio1oo.classes;
+package exercicio2oo.testes;
 
 import exercicio2oo.classes.Carro;
 
-class TestaCarro {
+public class TestaCarro {
     public static void main(String[] args) {
         Carro c1 = new Carro();
         c1.modelo = "Viper";
